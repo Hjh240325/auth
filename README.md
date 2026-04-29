@@ -1,1 +1,4 @@
-# auth
+{
+  "authorized": true,
+  "expire": "2027-12-31"
+}
